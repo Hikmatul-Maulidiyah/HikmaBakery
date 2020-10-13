@@ -9,6 +9,7 @@ li {
 
 .header {
   background-color: #A52A2A;
+  opacity: 0.6;
   color: #DAA250;
   height: 90px;
 }
