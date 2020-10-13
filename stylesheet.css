@@ -26,6 +26,7 @@ li {
 }
 
 .main {
+  backgroun-image: url("https://raw.githubusercontent.com/Hikmatul-Maulidiyah/HomeBakery/master/wallpaper.jpg");
   padding: 100px 80px;
 }
 
@@ -51,7 +52,6 @@ li {
 }
 
 .copy-container span {
-  backgroun-image: url("https://raw.githubusercontent.com/Hikmatul-Maulidiyah/HomeBakery/master/wallpaper.jpg");
   color: #ff4a4a;
 }
 
