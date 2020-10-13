@@ -1,4 +1,5 @@
 body {
+  background-image: url("paper.gif");
   font-family: "Avenir Next";
 }
 
@@ -27,10 +28,6 @@ li {
 }
 
 .main {
-  background-image: url("img_tree.png");
-  background-repeat: no-repeat;
-  background-position: right top;
-  background-attachment: scroll;
   padding: 100px 80px;
 }
 
