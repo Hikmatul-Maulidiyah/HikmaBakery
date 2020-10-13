@@ -28,11 +28,19 @@ li {
 }
 
 .copy-container h1 {
-  font-size: 140px;
+  font-size: 70px;
 }
 
 .copy-container h2 {
-  font-size: 60px;
+  font-size: 30px;
+}
+
+.copy-container h3 {
+  font-size: 30px;
+}
+
+.copy-container h4 {
+  font-size: 25px;
 }
 
 .copy-container span {
