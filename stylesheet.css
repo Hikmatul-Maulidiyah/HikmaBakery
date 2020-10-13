@@ -16,6 +16,7 @@ li {
 
 .header-logo {
   float: left;
+  padding: 20px 20px;
 }
 
 .header-list li {
