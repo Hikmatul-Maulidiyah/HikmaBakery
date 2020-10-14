@@ -26,7 +26,6 @@ li {
 }
 
 .main {
-  backgroun-image: url("https://raw.githubusercontent.com/Hikmatul-Maulidiyah/HomeBakery/master/wallpaper.jpg");
   background-color: #FFE4C4;
   padding: 100px 80px;
 }
@@ -34,7 +33,7 @@ li {
 .copy-container h1 {
   text-align: center;
   font-size: 45px;
-  font-family: 'Sofia';
+  font-family: "Sofia";
 }
 
 .copy-container h2 {
