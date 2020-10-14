@@ -39,13 +39,12 @@ li {
 .copy-container h2 {
   text-align: center;
   font-size: 25px;
-  font-style: italic;
 }
 
 .copy-container h3 {
   text-align: center;
   font-size: 25px;
-  font-family: "courier new";
+  font-family: "century gothic";
 }
 
 .copy-container h4 {
@@ -104,8 +103,8 @@ input, textarea {
 .footer {
   background-color: #A52A2A;
   color: #DAA250;
-  height: 120px;
-  padding: 40px;
+  height: 150px;
+  padding: 50px;
 }
 
 .footer-logo {
