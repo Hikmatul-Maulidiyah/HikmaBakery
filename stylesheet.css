@@ -9,7 +9,7 @@ li {
 .header {
   background-color: #A52A2A;
   color: #DAA250;
-  height: 90px;
+  height: 100px;
 }
 
 .header-logo {
@@ -19,7 +19,7 @@ li {
 
 .header-list li {
   float: right;
-  font-size: 18px;
+  font-size: 20px;
   text-decoration: none;
   text-transform: uppercase;
   padding: 40px 50px;
