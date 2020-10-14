@@ -109,12 +109,13 @@ input, textarea {
 }
 
 .footer-logo {
-  float: left;
+  text-align: center;
   font-size: 32px;
 }
 
 .footer-list {
-  float: right;
+  float: bottom;
+  text-align: center;
 }
 
 .footer-list li {
