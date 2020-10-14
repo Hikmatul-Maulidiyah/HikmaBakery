@@ -104,7 +104,7 @@ input, textarea {
 .footer {
   background-color: #A52A2A;
   color: #DAA250;
-  height: 150px;
+  height: 180px;
   padding: 50px;
 }
 
@@ -115,7 +115,7 @@ input, textarea {
 .footer-list {
   float: bottom;
   text-align: center;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .footer-list li {
