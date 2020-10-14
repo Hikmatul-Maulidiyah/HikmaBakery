@@ -9,17 +9,17 @@ li {
 .header {
   background-color: #A52A2A;
   color: #DAA250;
-  height: 100px;
+  height: 90px;
 }
 
 .header-logo {
   float: left;
-  padding: 0px 40px;
+  padding: 0px 30px;
 }
 
 .header-list li {
   float: right;
-  font-size: 22px;
+  font-size: 18px;
   text-decoration: none;
   text-transform: uppercase;
   padding: 40px 50px;
