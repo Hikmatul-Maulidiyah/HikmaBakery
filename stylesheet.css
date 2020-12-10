@@ -1,5 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
+  margin: 0;
   font-family: "Avenir Next";
+}
+
+a {
+  text-decoration: none;
 }
 
 li {
