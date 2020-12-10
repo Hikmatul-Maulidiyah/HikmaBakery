@@ -6,6 +6,18 @@ li {
   list-style: none;
 }
 
+@media (max-width: 1000px) {
+  .item {
+    width: 50%;
+  }
+}
+
+@media (max-width: 670px) {
+  .item {
+    width: 100%;
+  }
+}
+
 .header {
   background-color: #A52A2A;
   color: #DAA250;
