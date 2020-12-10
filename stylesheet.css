@@ -132,13 +132,13 @@ input, textarea {
   padding-bottom: 20px;
 }
 
-@media (max-width: 100px) {
+@media (max-width: 1000px) {
   .item {
-    width: 100%;
+    width: 50%;
   }
 }
 
-@media (max-width: 67px) {
+@media (max-width: 670px) {
   .item {
     width: 100%;
   }
