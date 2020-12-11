@@ -1,5 +1,18 @@
+* {
+ box-sizing: border-box;
+}
+
 body {
+  margin: 0;
   font-family: "Avenir Next";
+}
+
+a {
+ text-decoration: none;
+}
+
+.clear {
+ clear: left;
 }
 
 li {
@@ -7,6 +20,10 @@ li {
 }
 
 .header {
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
   background-color: #A52A2A;
   color: #DAA250;
   height: 100px;
@@ -23,6 +40,16 @@ li {
   text-decoration: none;
   text-transform: uppercase;
   padding: 40px 50px;
+}
+
+/* Tambahkan CSS untuk menu-icon */
+.menu-icon {
+ color: white;
+ float: right;
+ font-size: 25px;
+ padding: 21px 0;
+ /* Gantikan property display ke none */
+ display: none;
 }
 
 .main {
