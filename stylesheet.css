@@ -1,15 +1,5 @@
-* {
-  box-sizing: border-box;
-  width: 100%;
-}
-
 body {
-  margin: 0;
   font-family: "Avenir Next";
-}
-
-a {
-  text-decoration: none;
 }
 
 li {
@@ -132,14 +122,3 @@ input, textarea {
   padding-bottom: 20px;
 }
 
-@media (max-width: 1000px) {
-  .item {
-    width: 50%;
-  }
-}
-
-@media (max-width: 670px) {
-  .item {
-    width: 100%;
-  }
-}
