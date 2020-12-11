@@ -1,22 +1,22 @@
 /* Untuk Tablet */
 @media all and (maxwidth: 1000px) {
- .lesson {
+ .contents {
  width: 50%;
  margin-bottom: 50px;
  }
 
- .top-wrapper h1 {
+ .container {
  font-size: 32px;
  }
 
- .heading h2 {
+ .main {
  font-size: 20px;
  }
  
  }
 /* Untuk Smartphone */
 @media all and (maxwidth: 670px) {
- .lesson {
+ .contents {
  width: 100%;
  }
 
@@ -28,18 +28,16 @@
  width: 100%;
  }
 
- .top-wrapper {
+ .main {
  text-align: left;
  }
 
- /* Tambahkan CSS
-untuk header-right */
- .header-right {
+ /* Tambahkan CSS untuk header-right */
+ .header-list {
  display: none;
  }
  
-  /* Tambahkan CSS
-untuk menu-icon */
+  /* Tambahkan CSS untuk menu-icon */
  .menu-icon {
  display: block;
  }
