@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
   font-family: "Avenir Next";
 }
@@ -120,5 +124,16 @@ input, textarea {
 
 .footer-list li {
   padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 1200px) {
+    aside {
+        margin-top: 20px;
+        width: 100%;
+        padding-left: 0px;    
+    }
+    #content {
+        width: 100%;
+    }
 }
 
